@@ -1,0 +1,10 @@
+C:\Users\vinyt\source\repos\ler_salvar_arquivos\ler_salvar_arquivos\bin\Debug\ler_salvar_arquivos.exe.config
+C:\Users\vinyt\source\repos\ler_salvar_arquivos\ler_salvar_arquivos\bin\Debug\ler_salvar_arquivos.exe
+C:\Users\vinyt\source\repos\ler_salvar_arquivos\ler_salvar_arquivos\bin\Debug\ler_salvar_arquivos.pdb
+C:\Users\vinyt\source\repos\ler_salvar_arquivos\ler_salvar_arquivos\obj\Debug\ler_salvar_arquivos.csprojAssemblyReference.cache
+C:\Users\vinyt\source\repos\ler_salvar_arquivos\ler_salvar_arquivos\obj\Debug\ler_salvar_arquivos.Form1.resources
+C:\Users\vinyt\source\repos\ler_salvar_arquivos\ler_salvar_arquivos\obj\Debug\ler_salvar_arquivos.Properties.Resources.resources
+C:\Users\vinyt\source\repos\ler_salvar_arquivos\ler_salvar_arquivos\obj\Debug\ler_salvar_arquivos.csproj.GenerateResource.cache
+C:\Users\vinyt\source\repos\ler_salvar_arquivos\ler_salvar_arquivos\obj\Debug\ler_salvar_arquivos.csproj.CoreCompileInputs.cache
+C:\Users\vinyt\source\repos\ler_salvar_arquivos\ler_salvar_arquivos\obj\Debug\ler_salvar_arquivos.exe
+C:\Users\vinyt\source\repos\ler_salvar_arquivos\ler_salvar_arquivos\obj\Debug\ler_salvar_arquivos.pdb

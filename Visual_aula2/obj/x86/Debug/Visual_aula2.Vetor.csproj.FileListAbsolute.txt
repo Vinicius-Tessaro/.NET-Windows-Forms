@@ -1,0 +1,10 @@
+C:\Users\vinyt\source\repos\Visual_aula2\obj\x86\Debug\Visual_aula2.Vetor.csprojAssemblyReference.cache
+C:\Users\vinyt\source\repos\Visual_aula2\obj\x86\Debug\Visual_aula2.Form1.resources
+C:\Users\vinyt\source\repos\Visual_aula2\obj\x86\Debug\Visual_aula2.Vetor.Visual_aula2.Properties.Resources.resources
+C:\Users\vinyt\source\repos\Visual_aula2\obj\x86\Debug\Visual_aula2.Vetor.csproj.GenerateResource.cache
+C:\Users\vinyt\source\repos\Visual_aula2\obj\x86\Debug\Visual_aula2.Vetor.csproj.CoreCompileInputs.cache
+C:\Users\vinyt\source\repos\Visual_aula2\bin\Debug\WindowsApplication.exe.config
+C:\Users\vinyt\source\repos\Visual_aula2\bin\Debug\WindowsApplication.exe
+C:\Users\vinyt\source\repos\Visual_aula2\bin\Debug\WindowsApplication.pdb
+C:\Users\vinyt\source\repos\Visual_aula2\obj\x86\Debug\WindowsApplication.exe
+C:\Users\vinyt\source\repos\Visual_aula2\obj\x86\Debug\WindowsApplication.pdb

@@ -1,0 +1,11 @@
+C:\Users\vinyt\source\repos\Troca Windows Form\Troca_WinForms\Troca_WinForms\obj\Debug\Troca_WinForms.csprojAssemblyReference.cache
+C:\Users\vinyt\source\repos\Troca Windows Form\Troca_WinForms\Troca_WinForms\obj\Debug\Troca_WinForms.Form1.resources
+C:\Users\vinyt\source\repos\Troca Windows Form\Troca_WinForms\Troca_WinForms\obj\Debug\Troca_WinForms.Form2.resources
+C:\Users\vinyt\source\repos\Troca Windows Form\Troca_WinForms\Troca_WinForms\obj\Debug\Troca_WinForms.Properties.Resources.resources
+C:\Users\vinyt\source\repos\Troca Windows Form\Troca_WinForms\Troca_WinForms\obj\Debug\Troca_WinForms.csproj.GenerateResource.cache
+C:\Users\vinyt\source\repos\Troca Windows Form\Troca_WinForms\Troca_WinForms\obj\Debug\Troca_WinForms.csproj.CoreCompileInputs.cache
+C:\Users\vinyt\source\repos\Troca Windows Form\Troca_WinForms\Troca_WinForms\bin\Debug\Troca_WinForms.exe.config
+C:\Users\vinyt\source\repos\Troca Windows Form\Troca_WinForms\Troca_WinForms\bin\Debug\Troca_WinForms.exe
+C:\Users\vinyt\source\repos\Troca Windows Form\Troca_WinForms\Troca_WinForms\bin\Debug\Troca_WinForms.pdb
+C:\Users\vinyt\source\repos\Troca Windows Form\Troca_WinForms\Troca_WinForms\obj\Debug\Troca_WinForms.exe
+C:\Users\vinyt\source\repos\Troca Windows Form\Troca_WinForms\Troca_WinForms\obj\Debug\Troca_WinForms.pdb

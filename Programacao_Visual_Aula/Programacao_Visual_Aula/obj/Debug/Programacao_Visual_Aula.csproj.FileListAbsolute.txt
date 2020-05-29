@@ -1,0 +1,10 @@
+C:\Users\vinyt\source\repos\Programacao_Visual_Aula\Programacao_Visual_Aula\obj\Debug\Programacao_Visual_Aula.csprojAssemblyReference.cache
+C:\Users\vinyt\source\repos\Programacao_Visual_Aula\Programacao_Visual_Aula\obj\Debug\Programacao_Visual_Aula.Form1.resources
+C:\Users\vinyt\source\repos\Programacao_Visual_Aula\Programacao_Visual_Aula\obj\Debug\Programacao_Visual_Aula.Properties.Resources.resources
+C:\Users\vinyt\source\repos\Programacao_Visual_Aula\Programacao_Visual_Aula\obj\Debug\Programacao_Visual_Aula.csproj.GenerateResource.cache
+C:\Users\vinyt\source\repos\Programacao_Visual_Aula\Programacao_Visual_Aula\obj\Debug\Programacao_Visual_Aula.csproj.CoreCompileInputs.cache
+C:\Users\vinyt\source\repos\Programacao_Visual_Aula\Programacao_Visual_Aula\bin\Debug\Programacao_Visual_Aula.exe.config
+C:\Users\vinyt\source\repos\Programacao_Visual_Aula\Programacao_Visual_Aula\bin\Debug\Programacao_Visual_Aula.exe
+C:\Users\vinyt\source\repos\Programacao_Visual_Aula\Programacao_Visual_Aula\bin\Debug\Programacao_Visual_Aula.pdb
+C:\Users\vinyt\source\repos\Programacao_Visual_Aula\Programacao_Visual_Aula\obj\Debug\Programacao_Visual_Aula.exe
+C:\Users\vinyt\source\repos\Programacao_Visual_Aula\Programacao_Visual_Aula\obj\Debug\Programacao_Visual_Aula.pdb

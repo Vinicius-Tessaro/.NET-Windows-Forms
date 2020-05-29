@@ -1,0 +1,11 @@
+C:\Users\vinyt\source\repos\Jogo de dados\Jogo de dados\obj\Debug\Jogo de dados.csprojAssemblyReference.cache
+C:\Users\vinyt\source\repos\Jogo de dados\Jogo de dados\obj\Debug\Jogo_de_dados.Form1.resources
+C:\Users\vinyt\source\repos\Jogo de dados\Jogo de dados\obj\Debug\Jogo de dados.csproj.GenerateResource.cache
+C:\Users\vinyt\source\repos\Jogo de dados\Jogo de dados\obj\Debug\Jogo de dados.csproj.CoreCompileInputs.cache
+C:\Users\vinyt\source\repos\Jogo de dados\Jogo de dados\obj\Debug\Jogo_de_dados.Form2.resources
+C:\Users\vinyt\source\repos\Jogo de dados\Jogo de dados\bin\Debug\Jogo_de_dados.exe.config
+C:\Users\vinyt\source\repos\Jogo de dados\Jogo de dados\bin\Debug\Jogo_de_dados.exe
+C:\Users\vinyt\source\repos\Jogo de dados\Jogo de dados\bin\Debug\Jogo_de_dados.pdb
+C:\Users\vinyt\source\repos\Jogo de dados\Jogo de dados\obj\Debug\Jogo_de_dados.exe
+C:\Users\vinyt\source\repos\Jogo de dados\Jogo de dados\obj\Debug\Jogo_de_dados.pdb
+C:\Users\vinyt\source\repos\Jogo de dados\Jogo de dados\obj\Debug\Jogo_de_dados.Properties.Resources.resources

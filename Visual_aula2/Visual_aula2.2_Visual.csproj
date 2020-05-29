@@ -1,0 +1,95 @@
+﻿<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{608CC5BB-DD7A-4D59-A18F-1590FDC1C9C5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <NoStandardLibraries>false</NoStandardLibraries>
+    <AssemblyName>WindowsApplication</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RootNamespace>Visual_aula2._2_Visual</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include=".vs\Visual_aula2.1\v16\.suo" />
+    <None Include=".vs\Visual_aula2.2_Visual\v16\.suo" />
+    <None Include=".vs\Visual_aula2.Vetor\v16\.suo" />
+    <None Include=".vs\Visual_aula2.Visual\v16\.suo" />
+    <None Include=".vs\Visual_aula2\v16\.suo" />
+    <None Include="Visual_aula2\App.config" />
+    <None Include="Visual_aula2\bin\Debug\Visual_aula2.exe.config" />
+    <None Include="Visual_aula2\obj\Debug\DesignTimeResolveAssemblyReferences.cache" />
+    <None Include="Visual_aula2\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="Visual_aula2\obj\Debug\Visual_aula2.csproj.CoreCompileInputs.cache" />
+    <None Include="Visual_aula2\obj\Debug\Visual_aula2.csproj.GenerateResource.cache" />
+    <None Include="Visual_aula2\obj\Debug\Visual_aula2.csprojAssemblyReference.cache" />
+    <None Include="Visual_aula2\Properties\Settings.settings" />
+    <None Include="Visual_aula2\Visual_aula2.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Visual_aula2\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Visual_aula2\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Visual_aula2\Program.cs" />
+    <Compile Include="Visual_aula2\Properties\AssemblyInfo.cs" />
+    <Compile Include="Visual_aula2\Properties\Resources.Designer.cs" />
+    <Compile Include="Visual_aula2\Properties\Settings.Designer.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Visual_aula2\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Visual_aula2\obj\Debug\Visual_aula2.Form1.resources" />
+    <EmbeddedResource Include="Visual_aula2\obj\Debug\Visual_aula2.Properties.Resources.resources" />
+    <EmbeddedResource Include="Visual_aula2\Properties\Resources.resx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Visual_aula2\bin\Debug\Visual_aula2.exe" />
+    <Content Include="Visual_aula2\bin\Debug\Visual_aula2.pdb" />
+    <Content Include="Visual_aula2\obj\Debug\Visual_aula2.csproj.FileListAbsolute.txt" />
+    <Content Include="Visual_aula2\obj\Debug\Visual_aula2.exe" />
+    <Content Include="Visual_aula2\obj\Debug\Visual_aula2.pdb" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Visual_aula2\obj\Debug\TempPE\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSHARP.Targets" />
+  <ProjectExtensions>
+    <VisualStudio AllowExistingFolder="true" />
+  </ProjectExtensions>
+</Project>
